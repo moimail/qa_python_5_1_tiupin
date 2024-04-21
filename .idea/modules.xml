@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/qa_python_5_1_tiupin.iml" filepath="$PROJECT_DIR$/.idea/qa_python_5_1_tiupin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qa_auto_sprint_5_1.iml" filepath="$PROJECT_DIR$/.idea/qa_auto_sprint_5_1.iml" />
     </modules>
   </component>
 </project>
