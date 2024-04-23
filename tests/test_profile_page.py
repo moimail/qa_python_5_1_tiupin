@@ -99,6 +99,7 @@ class TestProfilePage:
         # Проверка перехода по логитипу
         assert driver.current_url == URLS.MAIN_PAGE_URL
 
+
     def test_logout(self, driver):
         # Вход через лавную страницу
         driver = driver
